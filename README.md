@@ -1,5 +1,4 @@
 # PSMPUtil 2020-06-28 - ver 1.0 
-author: Jeen0cto
 
 Description
 Generate registry file for Putty session suitable for SSH connection through CyberArk PSM Proxy
