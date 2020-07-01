@@ -1,0 +1,12 @@
+psmp:
+    host: 127.0.0.1
+users:
+    username: albert
+    account: adm-albert
+    domain: mydomain.foo
+input:
+    serverlist_filename: servers.txt
+    puttytemplate_filename: putty_template.txt
+output:
+    filename: putty_psmp.reg
+ 
