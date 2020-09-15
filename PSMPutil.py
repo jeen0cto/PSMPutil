@@ -27,7 +27,7 @@ print()
 
 # Load configuration file (YAML) 
 print(Fore.GREEN + 'Loading configuration file...')
-file = open('PSMPutil.yml', 'r')
+file = open('PSMPutil.yaml', 'r')
 cfg = yaml.load(file, Loader=yaml.FullLoader)
 
 # PSMP Section
