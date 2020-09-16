@@ -1,9 +1,11 @@
 psmp:
     host: 127.0.0.1
-users:
-    username: albert
-    account: adm-albert
     domain: mydomain.foo
+users:
+    - username: albert
+      account: adm-albert
+    - username: albert
+      account: adm-albert
 input:
     serverlist_filename: servers.txt
     puttytemplate_filename: putty_template.txt
